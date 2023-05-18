@@ -20,6 +20,9 @@
         <module>demo-common</module>
         <module>demo-web</module>
         <module>demo-testMysql</module>
+        <module>demo-testRedis</module>
+        <module>demo-testKafka</module>
+        <module>demo-testMq</module>
     </modules>
 
     <properties>
